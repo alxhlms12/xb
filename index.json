@@ -1,16 +1,16 @@
-      "category": "modules",
-      "modules": [
-        {
-          "id": "xb-tidal",
-          "name": "Tidal HiFi",
-          "download": "https://raw.githubusercontent.com/alxhlms12/xb/refs/heads/main/module.js", // Changed from "linkedhere"
-          "version": "v1.3.7",
-          "type": "MODULE",
-          "author": ["@blurrymilke", "@._.alx."],
-          "description": "Lossless Tidal module w/ Dolby Atmos Support",
-          "tags": ["HI-RES", "DOBLY ATMOS", "TIDAL", "Lossless"],
-          "featured": true,
-          "trusted": true
-        }
-      ]
-    };
+{
+  "category:modules": [ 
+	  {
+      "id": "xb-tidal",
+      "name": "Tidal HiFi",
+      "download": "module.js",
+      "version": "v1.3.7",
+      "type": "MODULE",
+      "author": "@blurrymilke, @._.alx.",
+      "description": "Tidal HiFi Module w/ Dolby Atmos",
+      "tags": ["HI-RES", "DOBLY ATMOS", "TIDAL", "LOSSLESS"],
+      "featured": true,
+      "trusted": true
+    }
+  ]
+}
